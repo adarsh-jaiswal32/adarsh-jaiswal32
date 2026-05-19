@@ -27,7 +27,7 @@ src="https://github.com/adarsh-jaiswal32/adarsh-jaiswal32/blob/main/PHOTO.png">
 
 | Project | Description |
 |---|---|
-| HR Analytics Dashboard | Power BI dashboard for employee insights |
+| American-Express-Credit Dashboard | Power BI dashboard for insights |
 | EV Market Analysis | Data visualization & KPI analysis |
 | Netflix EDA Project | Exploratory data analysis using Python |
 
@@ -57,29 +57,21 @@ src="https://github.com/adarsh-jaiswal32/adarsh-jaiswal32/blob/main/PHOTO.png">
 <tr>
 <td width="50%">
 
-### Airbnb Dashboard
-<img src="YOUR_IMAGE_LINK" width="100%">
+### Apollo Hospital Delhi 23/24 Dashboard
+<img src="https://github.com/adarsh-jaiswal32/Apollo-Hospital-Dashboard-/blob/main/apollo20d.gif" width="100%">
 
 </td>
 
 <td width="50%">
 
-### IPL - 22 Dashboard
-<img src="YOUR_IMAGE_LINK" width="100%">
+### 🏏 Virat Kohli Career Stats Dashboard
+<img src="https://github.com/adarsh-jaiswal32/Virat-Kohli-Career-Stats-Dashboard/blob/main/virat%20.gif" width="100%">
 
 </td>
 </tr>
 </table>
 
 ---
-
-# 📊 Featured Projects
-
-| Project | Description |
-|---|---|
-| HR Analytics Dashboard | Power BI dashboard for employee insights |
-| EV Market Analysis | Data visualization & KPI analysis |
-| Netflix EDA Project | Exploratory data analysis using Python |
 
 ---
 
